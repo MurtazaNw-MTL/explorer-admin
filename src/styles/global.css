@@ -1,0 +1,70 @@
+:root {
+  --themecol: gray;
+  --themecol2: #1ea1f2;
+
+  --coltheme: #1ea1f2;
+}
+.login-input{
+  color: white;
+  background-color: black;
+  /* outline: none; */
+  border: 1px solid white;
+  width: 100%;
+  border-radius: 5px;
+  padding: 15px;
+  /* background-color: gray; */
+}
+.boxshadow{
+-webkit-box-shadow: -1px 16px 15px 22px rgba(122, 122, 122, 1);
+  -moz-box-shadow: -1px 16px 15px 22px rgba(122, 122, 122, 1);
+  box-shadow: -1px 16px 15px 22px rgba(122, 122, 122, 1);
+}
+.css-e8kpoj-MuiTableCell-root{
+padding: 8px !important;
+}
+.css-1czhfjg-MuiTableCell-root{
+padding: 8px !important;
+}
+.css-q0b3gy-MuiTableCell-root{
+padding: 8px !important;
+}
+.bgtheme {
+  background-color: var(--themecol) !important;
+}
+.bgtheme2 {
+  background-color: var(--themecol2) !important;
+}
+.coltheme {
+  color: var(--themecol2) !important;
+}
+.coltheme2 {
+  color: var(--themecol2) !important;
+}
+.cus-btn {
+  background-color: var(--themecol2) !important;
+  color: white !important;
+}
+
+.metamask {
+  background-color: #1ea1f2 !important;
+  color: white !important;
+  font-weight: bold !important;
+}
+
+.bold {
+  font-weight: bold !important;
+}
+
+.fs16 {
+  font-size: 16px !important;
+}
+.fs18 {
+  font-size: 18px !important;
+}
+
+.fs20 {
+  font-size: 20px !important;
+}
+.fs25 {
+  font-size: 25px !important;
+}

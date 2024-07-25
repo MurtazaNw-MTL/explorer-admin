@@ -1,0 +1,17 @@
+.avatarName {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+}
+.searchInput {
+  width: 100%;
+  border-radius: 10px;
+  /* height: 2rem; */
+  padding: 15px;
+  outline: none;
+  border: 1px solid gray;
+}
+.searchInput :focus {
+  /* border: 1px solid gray; */
+}
